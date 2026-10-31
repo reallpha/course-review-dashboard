@@ -209,10 +209,4 @@ https://course-review-dashboard.<your-subdomain>.workers.dev
 
 ---
 
-## 🤝 مشارکت
-
-پیشنهادها و گزارش باگ‌ها از طریق [Issues](https://github.com/reallpha/course-review-dashboard/issues) و Pull Request خوش‌آمد است.
-
-## 📄 مجوز
-
 این پروژه تحت مجوز [MIT](./LICENSE) منتشر شده است.
