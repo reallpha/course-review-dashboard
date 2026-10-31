@@ -1,4 +1,4 @@
-﻿<div dir="rtl" align="right">
+<div dir="rtl" align="right">
 
 # داشبورد مدیریت دوره‌ها (Course Review Dashboard) 🎓
 
@@ -235,4 +235,3 @@ git add screenshot.png README.md
 git commit -m "Add dashboard screenshot to README"
 git push
 اگر جایی گیر کردی یا خواستی چیزی رو تغییر بدیم (مثلاً بخش مجوز، یا اضافه کردن بخش «سوالات متداول»)، بگو. 🚀
-
