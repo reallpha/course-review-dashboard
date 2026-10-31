@@ -208,5 +208,3 @@ https://course-review-dashboard.<your-subdomain>.workers.dev
 - پلن رایگان Cloudflare (بدون نیاز به سرویس پولی)
 
 ---
-
-این پروژه تحت مجوز [MIT](./LICENSE) منتشر شده است.
