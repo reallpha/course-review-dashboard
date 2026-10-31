@@ -1,0 +1,14 @@
+{
+  "name": "course-review-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Course Review Dashboard - Cloudflare Workers + D1",
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev",
+    "db:create": "wrangler d1 create course-review-db",
+    "db:execute": "wrangler d1 execute course-review-db --file=schema.sql",
+    "import-csv": "node scripts/import-csv.js"
+  },
+  "dependencies": {}
+}
